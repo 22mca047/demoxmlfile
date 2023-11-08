@@ -4,24 +4,20 @@
   <to>Hitesh</to>  
   <from>Pragnesh</from>  
   <heading>Hello</heading>  
-  <body>Hello brother, how are you!</body>  
 </email>  
 <email>  
   <to>Jay</to>  
   <from>Mukesh</from>  
   <heading>Birth day wish</heading>  
-  <body>Happy birth day Dezy!</body>  
 </email>  
 <email>  
   <to>Mital</to>  
   <from>Modi</from>  
   <heading>Morning walk</heading>  
-  <body>Please start morning walk to stay fit!</body>  
 </email>  
 <email>  
   <to>Neel</to>  
   <from>Akash</from>  
   <heading>Hello</heading>  
-  <body>Hello Kruapli, how are you!</body>  
 </email>  
 </emails>
