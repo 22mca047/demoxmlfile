@@ -2,22 +2,26 @@
 <emails>  
 <email>  
   <to>Hitesh</to>  
+  <from>Mital</from>  
+  <heading>Hello</heading>  
+  <body>Hello brother, how are you!</body>  
+</email>  
+<email>  
+  <to>Hitesh</to>  
   <from>Pragnesh</from>  
-  <heading>Hello</heading>  
-</email>  
-<email>  
-  <to>Jay</to>  
-  <from>Mukesh</from>  
   <heading>Birth day wish</heading>  
+  <body>Happy birth day Pragnesh!</body>  
 </email>  
 <email>  
-  <to>Mital</to>  
-  <from>Modi</from>  
+  <to>Hitesh</to>  
+  <from>Neel</from>  
   <heading>Morning walk</heading>  
+  <body>Please start morning walk to stay fit!</body>  
 </email>  
 <email>  
-  <to>Neel</to>  
-  <from>Akash</from>  
+  <to>Hitesh</to>  
+  <from>Avi</from>  
   <heading>Hello</heading>  
+  <body>Hello Avi, how are you!</body>  
 </email>  
 </emails>
